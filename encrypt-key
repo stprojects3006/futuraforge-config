@@ -1,0 +1,2 @@
+encrypt:
+  key: "010701242212ANISANJSARANS243122" # key using which the configs are encrypted in the conig-store, in production pull it from key-vaults.
