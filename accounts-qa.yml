@@ -2,7 +2,7 @@ build:
   version: "2.0"
 
 accounts:
-  message: "Welcome to FFC bank accounts related QA APIs "
+  message: "{cipher}300f4b9b0544f1ff90f97da93bd5fca98e5212cd62cd4a3c673edf9b9c2ab67e2cc1f6a343c22e3cc2afce0aa76839434801a974b865f1218f09682027d67a60"
   contactDetails:
     name: "{cipher}dd0a90ae0d627ec302004ecdab475263ec84337a102d6fe3478ddf92050e9fbbd0a0a3f756fc84560a587a8fa2f518de"
     email: "{cipher}32af99486478be3218d788b8ff79e1e3e654dd58ee0c49c6bbe9a4fbca1eeff7e22a04cb1491f96a8ab4970c420538ee"
