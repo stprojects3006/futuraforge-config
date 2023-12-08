@@ -2,10 +2,10 @@ build:
   version: "3.0"
 
 accounts:
-  message: "Welcome to FFC Bank accounts related local APIs "
+  message: "{cipher}519c7da953d5d82bf1f5f0a23a3ae59734e6e4a138c91d87f603f68e3253caf1616946876c5e863acec54ed303624a29488d243bd15db5ebbb900228b48d32c54a1f72788f8f8c059900449ac2d74438"
   contactDetails:
     name: "Sanjeev Tiwari - Developer"
-    email: "sanjeevt@futuraforge.com"
+    email: "{cipher}9d765d1256551017776cb00014dde02041da8128f4581d4fb78cac644098af55ddc5255db04849b5230eb91efa745144"
   onCallSupport:
     - (555) 555-1234
     - (555) 523-1345
