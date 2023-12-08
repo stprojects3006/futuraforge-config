@@ -4,8 +4,8 @@ build:
 accounts:
   message: "Welcome to FFC bank accounts related QA APIs "
   contactDetails:
-    name: "Sarita - QA Lead - accounts"
-    email: "sarita@futuraforge.com"
+    name: "{cipher}dd0a90ae0d627ec302004ecdab475263ec84337a102d6fe3478ddf92050e9fbbd0a0a3f756fc84560a587a8fa2f518de"
+    email: "{cipher}32af99486478be3218d788b8ff79e1e3e654dd58ee0c49c6bbe9a4fbca1eeff7e22a04cb1491f96a8ab4970c420538ee"
   onCallSupport:
     - (666) 265-3765
     - (666) 734-8371
